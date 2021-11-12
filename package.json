@@ -1,0 +1,6 @@
+{
+  "name": "@yandex-cloud/tsconfig",
+  "version": "1.0.0",
+  "description": "Yandex.Cloud TypeScript config for our projects",
+  "license": "MIT"
+}
