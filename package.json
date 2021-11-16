@@ -2,5 +2,9 @@
   "name": "@yandex-cloud/tsconfig",
   "version": "1.0.0",
   "description": "Yandex.Cloud TypeScript config for our projects",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yandex-cloud/tsconfig"
+  }
 }
