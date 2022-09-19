@@ -1,5 +1,7 @@
 # @yandex-cloud/tsconfig
 
+> ⚠️ Repository moved to @gravity-ui/tsconfig
+
 ## Install
 ```
 $ npm install --save-dev @yandex-cloud/tsconfig
